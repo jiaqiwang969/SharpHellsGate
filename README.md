@@ -1,5 +1,5 @@
 ## C#c Hell's Gate ##
-C# Implementation of the Hell's Gate VX Technique 
+C# Imlementation of the Hell's Gate VX Technique 
 <br />
 <br />
 Link to the paper: https://vxug.fakedoma.in/papers/VXUG/Exclusive/HellsGate.pdf
