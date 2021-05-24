@@ -1,4 +1,4 @@
-## C# Hell's Gate ##
+## C#c Hell's Gate ##
 C# Implementation of the Hell's Gate VX Technique 
 <br />
 <br />
